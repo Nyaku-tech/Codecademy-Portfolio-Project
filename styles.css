@@ -1,0 +1,85 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.header{
+    display: flex;
+
+}
+
+#logo{
+    margin-right: auto;
+}
+
+.menuItems{
+    display: flex;
+    list-style: none;
+    margin-top: 27px;
+   
+    
+    
+}
+
+#menuItem{
+    margin-right: 20px;
+    font-weight: bold;
+    color: black;
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+.firstSection{
+    display: flex;
+    margin-top: 60px;
+}
+
+#abtParagraph{
+    line-height: 2;
+    max-width: 700px;
+}
+
+.img1{
+    border-radius: 20px;
+}
+
+.picture{
+    margin-left: 20px;
+}
+
+.projectSection{
+    margin-top: 40px;
+}
+
+#projectItem{
+    margin-bottom: 10px;
+}
+
+.skillsSection{
+    margin-top: 40px;
+}
+
+#skill{
+    margin-right: 30px;
+}
+
+.contactSection{
+    margin-top: 40px;
+}
+
+.contactIMG{
+    margin-right: 30px;
+}
+
+.footerContent{
+    margin-top: 60px;
+    text-align: center;
+}
